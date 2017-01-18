@@ -1,3 +1,5 @@
+# Time Capsule Application
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
@@ -37,4 +39,4 @@ For more example apps, see the
 [list of boilerplates](http://electron.atom.io/community/#boilerplates)
 created by the awesome electron community.
 
-#### License [CC0 1.0 (Public Domain)](LICENSE.md)
+#### License [Apache](LICENSE.md)
