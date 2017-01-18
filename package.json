@@ -1,0 +1,18 @@
+{
+  "name": "time capsule proto",
+  "version": "0.0.1",
+  "description": "a minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/henryc804/time-capsule",
+  "keywords": [
+    
+  ],
+  "author": "Sharlene Chui, Henry Cheung, Timothy Fei Truong Jr.",
+  "license": "Apache",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
