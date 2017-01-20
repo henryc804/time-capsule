@@ -1,5 +1,5 @@
 {
-  "name": "time capsule proto",
+  "name": "time_capsule_gamma",
   "version": "0.0.1",
   "description": "a minimal Electron application",
   "main": "main.js",
