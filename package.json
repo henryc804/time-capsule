@@ -14,6 +14,8 @@
     "electron": "^1.4.1"
   },
   "dependencies": {
-    "pg": "^6.1.2"
+    "pg": "^6.1.2",
+    "pgtools": "^0.2.3",
+    "sql-template-strings": "^2.2.2"
   }
 }
