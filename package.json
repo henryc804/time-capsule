@@ -7,12 +7,13 @@
     "start": "electron ."
   },
   "repository": "https://github.com/henryc804/time-capsule",
-  "keywords": [
-    
-  ],
+  "keywords": [],
   "author": "Sharlene Chui, Henry Cheung, Timothy Fei Truong Jr.",
   "license": "Apache",
   "devDependencies": {
     "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "pg": "^6.1.2"
   }
 }
