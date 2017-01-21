@@ -15,4 +15,4 @@ This is a minimal Electron application based on the [Quick Start Guide](http://e
 We will slowly be working our way up. Check back for more developments!
 
 
-#### License [Apache](LICENSE.md)
+#### License [Apache](LICENSE)
